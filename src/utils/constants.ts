@@ -1,5 +1,9 @@
 export const supportedWallets = [
   {
+    name: "XDEFI",
+    url: "https://www.xdefi.io",
+  },
+  {
     name: "Brave",
     url: "https://brave.com",
   },
@@ -34,10 +38,6 @@ export const supportedWallets = [
   {
     name: "Spot",
     url: "https://spot-wallet.com",
-  },
-  {
-    name: "XDEFI",
-    url: "https://xdefi.io",
   },
   {
     name: "Talisman",
